@@ -4,6 +4,8 @@ Inspired by [@guyzyl/awesome-macos-apps](https://github.com/guyzyl/awesome-macos
 
 ## Utilities
 
+
+- [Handy](https://handy.computer/) - Voice to Text using local models
 - [Amphetamine](https://apps.apple.com/il/app/amphetamine/id937984704?mt=12/) - Prevents your mac from sleeping
 - [App Cleaner](https://freemacsoft.net/appcleaner/) - The missing uninstaller for mac
 - [Cyberduck](https://cyberduck.io/) - FTP/SFTP Client
